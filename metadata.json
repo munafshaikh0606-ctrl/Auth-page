@@ -1,0 +1,6 @@
+{
+  "name": "Login Page",
+  "description": "A modern, responsive authentication page featuring Sign In, Sign Up, Password Recovery, 2FA Verification, and Interactive Account state.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
